@@ -1,20 +1,17 @@
 {
   "files": {
-    "main.css": "/gaussian-roi/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/gaussian-roi/static/js/main.18e5d041.chunk.js",
-    "main.js.map": "/gaussian-roi/static/js/main.18e5d041.chunk.js.map",
+    "main.js": "/gaussian-roi/static/js/main.80a9a74e.chunk.js",
+    "main.js.map": "/gaussian-roi/static/js/main.80a9a74e.chunk.js.map",
     "runtime-main.js": "/gaussian-roi/static/js/runtime-main.9d461c0f.js",
     "runtime-main.js.map": "/gaussian-roi/static/js/runtime-main.9d461c0f.js.map",
-    "static/js/2.dfde010f.chunk.js": "/gaussian-roi/static/js/2.dfde010f.chunk.js",
-    "static/js/2.dfde010f.chunk.js.map": "/gaussian-roi/static/js/2.dfde010f.chunk.js.map",
+    "static/js/2.32d7569a.chunk.js": "/gaussian-roi/static/js/2.32d7569a.chunk.js",
+    "static/js/2.32d7569a.chunk.js.map": "/gaussian-roi/static/js/2.32d7569a.chunk.js.map",
     "index.html": "/gaussian-roi/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/gaussian-roi/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.dfde010f.chunk.js.LICENSE.txt": "/gaussian-roi/static/js/2.dfde010f.chunk.js.LICENSE.txt"
+    "static/js/2.32d7569a.chunk.js.LICENSE.txt": "/gaussian-roi/static/js/2.32d7569a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9d461c0f.js",
-    "static/js/2.dfde010f.chunk.js",
-    "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.18e5d041.chunk.js"
+    "static/js/2.32d7569a.chunk.js",
+    "static/js/main.80a9a74e.chunk.js"
   ]
 }
