@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/gaussian-roi/static/js/main.80a9a74e.chunk.js",
-    "main.js.map": "/gaussian-roi/static/js/main.80a9a74e.chunk.js.map",
+    "main.js": "/gaussian-roi/static/js/main.e9063848.chunk.js",
+    "main.js.map": "/gaussian-roi/static/js/main.e9063848.chunk.js.map",
     "runtime-main.js": "/gaussian-roi/static/js/runtime-main.9d461c0f.js",
     "runtime-main.js.map": "/gaussian-roi/static/js/runtime-main.9d461c0f.js.map",
     "static/js/2.32d7569a.chunk.js": "/gaussian-roi/static/js/2.32d7569a.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.9d461c0f.js",
     "static/js/2.32d7569a.chunk.js",
-    "static/js/main.80a9a74e.chunk.js"
+    "static/js/main.e9063848.chunk.js"
   ]
 }
